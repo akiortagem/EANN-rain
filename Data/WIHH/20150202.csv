@@ -1,0 +1,9 @@
+TimeWIB,TemperatureC,Dew PointC,Humidity,Sea Level PressurehPa,VisibilityKm,Wind Direction,Wind SpeedKm/h,Gust SpeedKm/h,Precipitationmm,Events,Conditions,WindDirDegrees,DateUTC
+7:00 AM,24.0,24.0,100,1013,3.0,Calm,Calm,-,N/A,,Scattered Clouds,0,2015-02-02 00:00:00
+8:00 AM,25.0,24.0,94,1014,3.0,Calm,Calm,-,N/A,,Haze,0,2015-02-02 01:00:00
+9:00 AM,27.0,24.0,84,1014,4.0,Calm,Calm,-,N/A,,Haze,0,2015-02-02 02:00:00
+2:00 PM,31.0,25.0,70,1011,5.0,WNW,16.7,-,N/A,,Haze,290,2015-02-02 07:00:00
+3:00 PM,31.0,24.0,66,1011,5.0,West,16.7,-,N/A,,Haze,280,2015-02-02 08:00:00
+4:00 PM,32.0,24.0,62,1011,5.0,West,18.5,-,N/A,,Haze,280,2015-02-02 09:00:00
+5:00 PM,30.0,24.0,70,1011,5.0,West,13.0,-,N/A,,Haze,270,2015-02-02 10:00:00
+6:00 PM,29.0,25.0,79,1012,5.0,West,9.3,-,N/A,,Haze,270,2015-02-02 11:00:00
